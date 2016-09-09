@@ -1,0 +1,5 @@
+*.js
+npm-debug.log*
+node_modules
+typings
+out

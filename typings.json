@@ -1,0 +1,9 @@
+{
+  "name": "parse-link-header",
+  "main": "src/index.d.ts",
+  "homepage": "https://github.com/thlorenz/parse-link-header#readme",
+  "version": "0.4.1",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160902022231"
+  }
+}
